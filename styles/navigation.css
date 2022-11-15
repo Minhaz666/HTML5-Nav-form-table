@@ -1,0 +1,26 @@
+ul
+{
+ display: flex;
+list-style: none;
+background-color: red;
+width: 500px;
+
+}
+
+li
+{
+text-decoration: none;
+padding: 8px;
+font-size: 30px;
+
+}
+li:hover
+{
+background-color: aqua;
+color: burlywood; 
+}
+
+#a
+{
+    text-decoration: none;
+}
